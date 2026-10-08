@@ -1,4 +1,4 @@
-# Chris Beisler · SpaceGeek
+# SpaceGeek
 
 I am an independent researcher and systems designer with professional experience in aerospace quality, nondestructive testing, electronics, manufacturing, corporate facilities, industrial maintenance, safety and operations.
 
