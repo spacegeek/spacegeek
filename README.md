@@ -38,11 +38,6 @@ Substantial reports and stable public releases may also be archived through serv
 
 * **GitHub:** [spacegeek](https://github.com/spacegeek)
 
-## Projects
-
-* **ConSERVA:** Public repository forthcoming
-* **DeVISU:** Public repository forthcoming
-
 ## Selected writing
 
 Selected essays, technical reports and research notes will be listed here as they are published.
